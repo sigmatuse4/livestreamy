@@ -1,2 +1,2 @@
 # livestreamy
-FFMPEG livestreaming to YouTube.
+MP3 livestreaming to YouTube using FFMPEG
